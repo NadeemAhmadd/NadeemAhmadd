@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Nadeem. I'm from Toronto, Canada.<br><br>NOW<br><br>📚 Studied CS at Wilfrid Laurier University<br>💻 Creating new projects which I find super cool.<br>🟡 Looking for work opportunities!<br><br>BIO<br><br>⚙️ What I use: Python, C/C++, Java, Go, JavaScript/Typescript, HTML/CSS<br>🌱 Learning all about full stack development and machine learning<br>💬 Ping me about projects, gaming, music<br>📫 Reach me: https://www.linkedin.com/in/nadeemahmadwlu/
+My name is Nadeem. I'm from Toronto, Canada.<br><br>NOW<br><br>📚 Studied CS at Wilfrid Laurier University<br>💻 Creating new projects which I find super cool.<br>🟡 Looking for work opportunities!<br><br>BIO<br><br>⚙️ What I use: Python, C/C++, Java, Go, JavaScript/Typescript, HTML/CSS and much more...<br>🌱 Learning all about full stack development and machine learning<br>💬 Ping me about projects, gaming, music<br>📫 Reach me: https://www.linkedin.com/in/nadeemahmadwlu/
 
 
 
